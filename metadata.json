@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Zona Clean - Tienda de Limpieza",
+  "description": "Una aplicación de comercio electrónico moderna y elegante para productos de limpieza profesionales, con catálogo, carrito y asistente inteligente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
